@@ -211,9 +211,9 @@ export default function EidCard() {
                   </div>
                   
                   <p className="text-base sm:text-lg text-emerald-800 leading-relaxed text-center mb-6 font-medium">
-                    "Bila hati banyak <span className="text-red-500 font-mono bg-red-50 px-1 rounded">bug</span> dan dosa sering <span className="text-red-500 font-mono bg-red-50 px-1 rounded">compile error</span>, mari kita <span className="text-emerald-600 font-mono bg-emerald-50 px-1 rounded">clear cache</span> dan reset kembali ke <span className="text-amber-600 font-mono bg-amber-50 px-1 rounded">v1.0</span>. 
+                    "Semoga amal ibadah kita diterima dan diberikan kesempatan untuk bertemu kembali dengan bulan suci ramadhan tahun depan.
                     <br/><br/>
-                    Mohon maaf lahir dan batin, semoga amal ibadah kita sukses di-<span className="text-emerald-600 font-mono bg-emerald-50 px-1 rounded">deploy</span> tanpa <span className="text-red-500 font-mono bg-red-50 px-1 rounded">rollback</span> di production akhirat."
+                    Selamat Hari Raya Idul Fitri. Mohon maaf lahir dan batin atas segala khilaf dan salah."
                   </p>
 
                   <div className="mt-8 pt-4 border-t border-emerald-200 text-center">
